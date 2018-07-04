@@ -3,6 +3,14 @@
 
 
 
+一键配置包括如下软件：
+
+- git
+- zsh
+- oh-my-zsh
+
+终端执行如下命令：
+
 ```
 sh -c "$(wget https://raw.githubusercontent.com/DingYusong/LinuxStart/master/entry.sh -O -)"
 ```
